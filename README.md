@@ -18,6 +18,7 @@ I am Curious about:
 You can email me as well here ***dhanisha522292@gmail.com***.
 <img src="https://komarev.com/ghpvc/?username=dhanishahahaha" alt="profile counter badge" />
 ### Connect with me
+[![Linkedin Badge](https://img.shields.io/badge/-dhanishahahaha-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhanisha-m-sharma-07918425b/)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=dhanishahahaha&?count_private=true&show_icons=true" alt="Dhanisha Sharma" align="center" />
