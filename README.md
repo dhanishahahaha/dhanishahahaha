@@ -1,8 +1,8 @@
 ### Hi there 👋, welcome to My profile.
 
-I am ***Dhanisha M Sharma***, I am a Learner, tutor, and Tech Enthusiast. to code in Python & R and currently providing services as a Freelancer !
+I am ***Dhanisha M Sharma***, I am a Learner, tutor, and Tech Enthusiast. to code in Python and currently providing services as a Freelancer !
 
-I love deep learning , computer vision and MLOPS. I learn new things and explore my interests everyday. 
+I love machine learning, deep learning and computer vision . I learn new things and explore my interests everyday. 
 
 I am Curious about: 
 - Machine Learning and Deep Learning 
