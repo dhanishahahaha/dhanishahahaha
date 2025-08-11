@@ -1,8 +1,8 @@
-### Hi there 👋, welcome to My profile.
+### Hi👋,
 
-I am ***Dhanisha Sharma***, I am a Learner and Tech Enthusiast. I code in Python!
+I am ***Dhanisha Sharma***, a Learner and Tech Enthusiast. I code in Python!
 
-I love machine learning, deep learning and computer vision . I learn new things and explore my interests everyday. 
+I'm open to collaborations or working together.
 
 I am Curious about: 
 - Machine Learning and Deep Learning 
