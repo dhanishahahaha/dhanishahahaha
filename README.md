@@ -1,6 +1,6 @@
 ### Hi there 👋, welcome to My profile.
 
-I am ***Dhanisha M Sharma***, I am a Learner, tutor, and Tech Enthusiast. I code in Python!
+I am ***Dhanisha Sharma***, I am a Learner and Tech Enthusiast. I code in Python!
 
 I love machine learning, deep learning and computer vision . I learn new things and explore my interests everyday. 
 
@@ -13,10 +13,13 @@ I am Curious about:
 - SQL
 - and much more....
 
-***Want to hire me for your next project. Lets connect.***
-You can email me as well here ***dhanisha.de@gmail.com***.
+***Lets connect here.***
+You can email me here ***dhanisha.de@gmail.com***.
+Or talk to me on Google meet using [Calendly](https://calendly.com/dhanisha-de/30min) :)
+
 <img src="https://komarev.com/ghpvc/?username=dhanishahahaha" alt="profile counter badge" />
-### Connect with me
+### Connect with me   
+
 ![Linkedin Badge](https://img.shields.io/badge/-dhanishahahaha-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhanisha-m-sharma-07918425b/)
 
 
