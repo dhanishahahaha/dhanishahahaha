@@ -18,7 +18,7 @@ You can email me here ***dhanisha.de@gmail.com***.
 Or talk to me on Google meet using [Calendly](https://calendly.com/dhanisha-de/30min) :)
 
 <img src="https://komarev.com/ghpvc/?username=dhanishahahaha" alt="profile counter badge" />
-### Connect with me   
+### Connect with me on Linked In to Collaborate or work together:
 
 ![Linkedin Badge](https://img.shields.io/badge/-dhanishahahaha-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhanisha-m-sharma-07918425b/)
 
