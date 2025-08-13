@@ -16,6 +16,7 @@ I am Curious and learning about:
 ***Connect here.***
 You can email me here ***dhanisha.de@gmail.com***.
 Or talk to me on Google meet using [Calendly](https://calendly.com/dhanisha-de/30min) :)
+Find more of my work on kaggle here: [Kaggle](https://www.kaggle.com/dhanishahahaha)
 
 <img src="https://komarev.com/ghpvc/?username=dhanishahahaha" alt="profile counter badge" />
 ### Connect with me on Linked In to Collaborate or work together:
