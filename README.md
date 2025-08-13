@@ -19,7 +19,8 @@ Or talk to me on Google meet using [Calendly](https://calendly.com/dhanisha-de/3
 Find more of my work on kaggle here: [Kaggle](https://www.kaggle.com/dhanishahahaha)
 
 <img src="https://komarev.com/ghpvc/?username=dhanishahahaha" alt="profile counter badge" />
-### Connect with me on Linked In to Collaborate or work together:
+
+Connect with me on Linked In to Collaborate or work together:
 
 ![Linkedin Badge](https://img.shields.io/badge/-dhanishahahaha-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhanisha-m-sharma-07918425b/)
 
