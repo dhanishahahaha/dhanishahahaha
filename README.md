@@ -4,16 +4,16 @@ I am ***Dhanisha Sharma***, a Learner and Tech Enthusiast. I code in Python!
 
 I'm open to collaborations or working together.
 
-I am Curious about: 
+I am Curious and learning about: 
 - Machine Learning and Deep Learning 
 - Computer Vision 
 - Google Cloud  
 - Web Scraping
 - Data Analytics
-- SQL
-- and much more....
+- PostgreSQL
+- Power BI
 
-***Lets connect here.***
+***Connect here.***
 You can email me here ***dhanisha.de@gmail.com***.
 Or talk to me on Google meet using [Calendly](https://calendly.com/dhanisha-de/30min) :)
 
