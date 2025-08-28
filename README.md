@@ -1,3 +1,10 @@
+<img src="https://github-readme-stats.vercel.app/api?username=dhanishahahaha&?count_private=true&show_icons=true" alt="Dhanisha Sharma" align="center" />
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanishahahaha&layout=compact" alt='Dhanisha Sharma' align="center" />
+  
+
+
 ### Hi👋,
 
 I am ***Dhanisha Sharma***, a Learner and Tech Enthusiast. I code in Python!
