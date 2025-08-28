@@ -30,12 +30,6 @@ Find more of my work on kaggle here: [Kaggle](https://www.kaggle.com/dhanishahah
 Connect with me on Linked In to Collaborate or work together:
 
 ![Linkedin Badge](https://img.shields.io/badge/-dhanishahahaha-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhanisha-m-sharma-07918425b/)
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=dhanishahahaha&?count_private=true&show_icons=true" alt="Dhanisha Sharma" align="center" />
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanishahahaha&layout=compact" alt='Dhanisha Sharma' align="center" />
   
 Feel free to look around my repos and connect with me on [linkedin](https://www.linkedin.com/in/dhanisha-m-sharma-07918425b/)😉
 
